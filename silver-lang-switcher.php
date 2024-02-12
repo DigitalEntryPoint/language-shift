@@ -3,8 +3,9 @@
 /**
  * Plugin Name: Silver Language Switcher
  * Plugin URI:
+ * GitHub Plugin URI: https://github.com/DigitalEntryPoint/language-shift
  * Description: A multi language switcher helper. this is going to be oop.
- * Version:  1.0
+ * Version:  1.1
  * Author: Mojtaba Mehrara
  * Author URI: Mojtaba.Mehrara@gmail.com
  */
@@ -51,7 +52,7 @@ if ( is_admin() ) {
 }
 //$instance = new SilverUmbrella\language_worker();
 $instance = new SilverUmbrella\language_worker();
-$htf      = new SilverUmbrella\Haftan();
+//$htf      = new SilverUmbrella\Haftan();
 //$sls      = new SilverUmbrella\plugin_sls();
 
 //debug_output_for_everyone(SLS_URL);
