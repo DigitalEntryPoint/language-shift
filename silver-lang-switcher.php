@@ -5,9 +5,11 @@
  * Plugin URI:
  * GitHub Plugin URI: https://github.com/DigitalEntryPoint/language-shift
  * Description: A multi language switcher helper. this is going to be oop.
- * Version:  1.1
+ * Version:  1.0
  * Author: Mojtaba Mehrara
  * Author URI: Mojtaba.Mehrara@gmail.com
+ * Text Domain: silver-language-switcher
+ * Domain Path: /languages
  */
 
 //namespace SilverUmbrella;
